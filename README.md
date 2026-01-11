@@ -280,20 +280,4 @@ coverage-gap-detection-poc/
 └── README.md
 ```
 
-## 🤝 Contributing
 
-This is a POC project. For production use, consider:
-- Comprehensive test coverage
-- Security audit
-- Performance optimization
-- Regulatory compliance review
-
-## 📝 License
-
-MIT License - free for educational and commercial use.
-
----
-
-**Built with ❤️ using Agentic AI**
-
-For questions or demo requests, contact the development team.
