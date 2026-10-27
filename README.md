@@ -86,7 +86,7 @@ graph TB
 
 1. **Clone and navigate to the project:**
 ```bash
-cd /Users/snehallale/.gemini/antigravity/scratch/coverage-gap-detection-poc
+cd /Users/{path}
 ```
 
 2. **Create and activate virtual environment:**
